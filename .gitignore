@@ -2,7 +2,7 @@
 # ------------
 
 Icon
-.DS_Stores
+../DS_Stores
 /kirby
 /vendor
 
